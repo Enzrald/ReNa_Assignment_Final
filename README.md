@@ -1,1 +1,3 @@
-# ReNa_Assignment_Final
+# ReactNative Assignment  
+KhoanxPH27009  
+CP17303
