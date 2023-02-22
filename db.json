@@ -1,0 +1,12 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Nguyễn Xuân Bug",
+      "address": "Hà Nội",
+      "number": "0968772513",
+      "logo": "image.png",
+      "status": 0
+    }
+  ]
+}
